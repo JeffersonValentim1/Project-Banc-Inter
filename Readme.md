@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="Repository size" src="x">
+  <img alt="Repository size" src="https://raw.githubusercontent.com/JeffersonValentim1/Project-Banc-Inter/main/frontend-app/screen/front00.png">
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
@@ -16,8 +16,8 @@
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="api" title="#api" src="X" width="400px">
-  <img alt="api" title="#api" src="x" width="400px">
+  <img alt="api" title="#api" src="https://raw.githubusercontent.com/JeffersonValentim1/Project-Banc-Inter/main/frontend-app/screen/fronte%2001.png" width="400px">
+  
 </p>
 
 ## 💻 Sobre o Projeto
